@@ -21,8 +21,8 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\Controller.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\Fan.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\main (1).cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\Motor (1).cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\main .cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\Motor .cpp" />
     <ClCompile Include="..\..\..\..\Downloads\RemoteControl.cpp" />
   </ItemGroup>
   <ItemGroup>
