@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="OOPlab2/OOPlab2.vcxproj" />
+  <Project Path="OOPlab2/OOPlab2.vcxproj" Id="c4d7fee5-42ec-4927-8a96-482b12268295" />
 </Solution>
